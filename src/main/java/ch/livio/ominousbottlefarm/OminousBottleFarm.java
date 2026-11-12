@@ -21,6 +21,7 @@ import org.bukkit.block.Banner;
 import org.bukkit.persistence.PersistentDataType;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitTask;
+import org.bukkit.inventory.meta.OminousBottleMeta;
 
 import java.util.HashMap;
 import java.util.Map;

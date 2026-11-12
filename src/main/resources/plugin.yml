@@ -1,0 +1,14 @@
+name: OminousBottleFarm
+version: 1.0.1
+main: ch.livio.ominousbottlefarm.OminousBottleFarm
+api-version: '26.3'
+author: Livio
+description: Configurable pillager farm that can drop Ominous Bottles.
+commands:
+  obfarm:
+    description: Manage the Ominous Bottle Farm.
+    usage: /obfarm <pos1|pos2|set|start|stop|status|reload>
+    permission: obfarm.admin
+permissions:
+  obfarm.admin:
+    default: op

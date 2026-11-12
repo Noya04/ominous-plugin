@@ -1,0 +1,11 @@
+# Spawn checks, in seconds
+spawn-interval-seconds: 5
+
+# Maximum number of farm-spawned pillagers alive at once
+max-alive-pillagers: 12
+
+# Player must be within this distance of the farm to activate it
+activation-radius: 128
+
+# Percentage chance that a spawned pillager is a captain (0-100)
+captain-chance-percent: 6.25
